@@ -1,4 +1,4 @@
-<p align="center" ><img  src="https://avatars.githubusercontent.com/u/139707911?v=4&size=64" width = 100px></p>
+<p align="center" ><img  src="https://avatars.githubusercontent.com/u/139707911?s=400&u=39d03ceb9443feee6cbf6cc9f154e2669669e3df&v=4" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Tharusha Madushan(Paradox01240)</h1>
 <h3 align="center">Passionate To Learn New Technology</h3>
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/139707911?v=4&size=64" alt="paradox01240" /> </p>
