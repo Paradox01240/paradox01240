@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/139707911?s=400&u=39d03ceb9443feee6cbf6cc9f154e2669669e3df&v=4" width="120" alt="Tharusha Madushan"/>
+<img src="https://avatars.githubusercontent.com/u/139707911?s=400&u=39d03ceb9443feee6cbf6cc9f154e2669669e3df&v=4" width="130" alt="Tharusha Madushan"/>
 
 # 👋 Hi, I'm Tharusha Madushan
 
@@ -8,129 +8,107 @@
 
 <p>
   <a href="https://github.com/Paradox01240">
-    <img src="https://komarev.com/ghpvc/?username=Paradox01240&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=Paradox01240&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/Paradox01240?tab=followers">
-    <img src="https://img.shields.io/github/followers/Paradox01240?label=Followers&style=flat" alt="GitHub followers"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/Paradox01240?label=Followers&style=flat" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Paradox01240?label=Stars&style=flat" alt="Stars"/>
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm an undergraduate software engineering student who enjoys building real-world applications and exploring emerging technologies.
+I'm an undergraduate software engineering student passionate about building real-world software and exploring modern technologies.
 
 * 🎓 Undergraduate at **PCJT**
-* ☕ **Java** is my main development language
+* ☕ **Java** is my primary development language
 * 🌐 Currently focused on **Full-Stack Development**
 * 🔐 Interested in **Cybersecurity & Ethical Hacking**
-* 🤖 Exploring **Artificial Intelligence & modern technologies**
-* 🐘 PHP enthusiast and experienced with backend development
-* 🐧 Comfortable with **Linux, networking and development environments**
-* 🧠 I enjoy learning by building practical projects
-* ⚡ **Fun fact:** You can call me **PARADOX**
+* 🤖 Exploring **Artificial Intelligence**
+* 🐘 PHP enthusiast
+* 🐧 Interested in Linux, networking and system technologies
+* 🧠 I learn by building practical projects
+* ⚡ **Call me PARADOX**
 
-> **"Learn. Build. Break. Improve. Repeat."**
+```text
+Java → Backend → Full Stack → Cybersecurity → AI
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,php,python,js,ts,c,cpp,kotlin" />
 </p>
 
-### 🌐 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,php" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,figma,androidstudio" />
-</p>
-
-### ☁️ Cloud & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,cloudflare,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,figma,androidstudio,vercel,cloudflare" />
 </p>
 
 ---
 
-## 🔐 Cybersecurity & Technology Interests
+## 🔐 Cybersecurity Interests
 
-I'm particularly interested in understanding how modern systems work — and how they can be made more secure.
+I'm interested in understanding how applications, networks and systems work — and how they can be secured.
 
-**Areas I'm exploring:**
+```text
+Web Security
+     ↓
+Network Security
+     ↓
+Linux & Systems
+     ↓
+Ethical Hacking
+     ↓
+Security Testing
+     ↓
+Secure Software Development
+```
+
+### Areas I'm Exploring
 
 * 🔒 Web Application Security
 * 🛡️ Ethical Hacking
 * 🌐 Network Security
 * 🐧 Linux & System Administration
-* 🔍 Security Testing
-* 🤖 AI & Cybersecurity
+* 🔍 Vulnerability Assessment
 * 🔐 Secure Backend Development
-* 🧪 Vulnerability Assessment
+* 🤖 AI + Cybersecurity
 
 ---
 
-## 📌 What I'm Currently Learning
-
-```text
-Full-Stack Development
-        │
-        ├── React / Next.js
-        ├── TypeScript
-        ├── REST APIs
-        ├── Java Backend
-        ├── Database Architecture
-        └── Cloud Deployment
-
-Cybersecurity
-        │
-        ├── Web Security
-        ├── Networking
-        ├── Linux
-        ├── Security Testing
-        └── Ethical Hacking
-
-Artificial Intelligence
-        │
-        ├── AI Applications
-        ├── AI APIs
-        ├── Automation
-        └── AI + Software Engineering
-```
-
----
-
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
 ### 🚌 Bus Management System
 
-A Java-based management system designed to handle bus operations, routes, employees, passengers, schedules and operational data.
+A Java-based management system for managing buses, routes, employees, passengers, schedules and operational data.
 
-**Tech:** `Java` `Swing` `MySQL` `JasperReports`
+**Java • Swing • MySQL • JasperReports**
 
 ---
 
@@ -138,15 +116,7 @@ A Java-based management system designed to handle bus operations, routes, employ
 
 A full-stack e-commerce platform designed for selling artwork and related products.
 
-**Tech:** `Java EE / Jakarta EE` `MySQL` `JavaScript` `REST APIs`
-
----
-
-### 🤖 AI & Technology Projects
-
-Exploring applications that combine software engineering with artificial intelligence, automation and modern web technologies.
-
-**Focus:** `AI` `Web Development` `Automation` `APIs`
+**Java EE / Jakarta EE • MySQL • JavaScript • REST API**
 
 ---
 
@@ -154,23 +124,67 @@ Exploring applications that combine software engineering with artificial intelli
 
 A robotics project experimenting with communication between multiple ESP32-based robots.
 
-**Tech:** `ESP32` `MicroPython` `NRF24L01` `Wi-Fi` `TCP`
+**ESP32 • MicroPython • NRF24L01 • Wi-Fi • TCP**
 
 ---
 
-## 📊 GitHub Statistics
+### 🤖 AI Projects
+
+Exploring AI-powered applications, automation and the integration of modern AI technologies into software systems.
+
+**AI • APIs • Automation • Full Stack**
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,python,docker,linux" />
+
+</p>
+
+```text
+FULL-STACK DEVELOPMENT
+├── React
+├── Next.js
+├── TypeScript
+├── REST APIs
+├── Java Backend
+├── Database Architecture
+└── Cloud Deployment
+
+CYBERSECURITY
+├── Web Security
+├── Networking
+├── Linux
+├── Security Testing
+└── Ethical Hacking
+
+ARTIFICIAL INTELLIGENCE
+├── AI APIs
+├── AI Applications
+├── Automation
+└── AI + Software Engineering
+```
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Paradox01240&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Paradox01240&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Paradox01240&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox01240&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox01240&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" />
 
 </div>
+
+> 🔒 Private contributions are included in the statistics where supported, while private repository information remains hidden.
 
 ---
 
@@ -178,35 +192,35 @@ A robotics project experimenting with communication between multiple ESP32-based
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paradox01240&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paradox01240&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-## 🧩 Development Philosophy
+## 🎯 2026 Goals
 
 ```text
-             ┌───────────────────┐
-             │      LEARN        │
-             └─────────┬─────────┘
-                       ↓
-             ┌───────────────────┐
-             │       BUILD       │
-             └─────────┬─────────┘
-                       ↓
-             ┌───────────────────┐
-             │       TEST        │
-             └─────────┬─────────┘
-                       ↓
-             ┌───────────────────┐
-             │      SECURE       │
-             └─────────┬─────────┘
-                       ↓
-             ┌───────────────────┐
-             │      IMPROVE      │
-             └───────────────────┘
+☕ Master Java Backend Development
+        ↓
+🌐 Become a Strong Full-Stack Engineer
+        ↓
+🔐 Advance Cybersecurity Skills
+        ↓
+🤖 Build AI-Powered Applications
+        ↓
+🌍 Contribute to Open Source
+        ↓
+🚀 Build Real-World Technology
 ```
+
+---
+
+## 🧠 Development Philosophy
+
+> **Learn → Build → Test → Secure → Improve**
+
+I believe the best way to learn technology is to build something real, understand why it works, find where it can fail, and continuously improve it.
 
 ---
 
@@ -215,14 +229,14 @@ A robotics project experimenting with communication between multiple ESP32-based
 <div align="center">
 
 <a href="mailto:tharushamadushan59@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Paradox01240">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add your real social links below -->
+<!-- Replace these with your actual profiles -->
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -236,24 +250,12 @@ A robotics project experimenting with communication between multiple ESP32-based
 
 ---
 
-## 🎯 2026 Goals
-
-* 🚀 Become a stronger **Full-Stack Engineer**
-* ☕ Deepen my **Java backend** expertise
-* 🔐 Develop stronger **Cybersecurity** skills
-* 🤖 Build practical **AI-powered applications**
-* 🌎 Work on international / open-source projects
-* 🧪 Build and publish more real-world projects
-* 📚 Prepare for advanced studies in **Cybersecurity & AI**
-
----
-
 <div align="center">
 
 ### ⚡ Code. Create. Secure. Innovate.
 
 **Thanks for visiting my profile! 👋**
 
-⭐ Feel free to explore my repositories and follow my journey.
+⭐ Explore my repositories and follow my journey.
 
 </div>
